@@ -20,8 +20,6 @@ Caesar Cipher is a substitution cipher where each letter in the plaintext is shi
 - Handles uppercase and lowercase letters  
 - Simple and beginner-friendly Python code  
 
----
-
 
 ---
 
